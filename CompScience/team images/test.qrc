@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>CompScience/team images/arsenal.png</file>
+    <file>CompScience/team images/aston villa.png</file>
+    <file>CompScience/team images/bournemouth.png</file>
+    <file>CompScience/team images/brentford.png</file>
+    <file>CompScience/team images/brighton.png</file>
+    <file>CompScience/team images/chelsea.png</file>
+    <file>CompScience/team images/crystal palace.png</file>
+    <file>CompScience/team images/everton.png</file>
+    <file>CompScience/team images/fulham.png</file>
+    <file>CompScience/team images/leeds.png</file>
+    <file>CompScience/team images/leicester.png</file>
+    <file>CompScience/team images/liverpool.png</file>
+    <file>CompScience/team images/man city.png</file>
+    <file>CompScience/team images/man united.png</file>
+    <file>CompScience/team images/newcastle.png</file>
+    <file>CompScience/team images/nottingham.png</file>
+    <file>CompScience/team images/southampton.png</file>
+    <file>CompScience/team images/spurs.png</file>
+    <file>CompScience/team images/west ham.png</file>
+    <file>CompScience/team images/wolves.png</file>
+  </qresource>
+</RCC>

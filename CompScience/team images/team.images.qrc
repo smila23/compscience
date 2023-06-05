@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="team images">
+    <file>arsenal.png</file>
+    <file>aston villa.png</file>
+    <file>bournemouth.png</file>
+    <file>brentford.png</file>
+    <file>brighton.png</file>
+    <file>chelsea.png</file>
+    <file>crystal palace.png</file>
+    <file>everton.png</file>
+    <file>fulham.png</file>
+    <file>leeds.png</file>
+    <file>leicester.png</file>
+    <file>liverpool.png</file>
+    <file>man city.png</file>
+    <file>man united.png</file>
+    <file>newcastle.png</file>
+    <file>nottingham.png</file>
+    <file>southampton.png</file>
+    <file>spurs.png</file>
+    <file>west ham.png</file>
+    <file>wolves.png</file>
+  </qresource>
+</RCC>
