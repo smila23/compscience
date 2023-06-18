@@ -12,9 +12,6 @@ class Ui_selection_menu(object):
         self.label.setGeometry(QtCore.QRect(-50, 40, 321, 531))
         self.label.setText("")
         self.label.setObjectName("label")
-        self.pushButton_2 = QtWidgets.QPushButton(self.centralwidget)
-        self.pushButton_2.setGeometry(QtCore.QRect(20, 380, 221, 131))
-        self.pushButton_2.setObjectName("pushButton_2")
         self.pushButton_3 = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton_3.setGeometry(QtCore.QRect(20, 250, 221, 131))
         self.pushButton_3.setObjectName("pushButton_3")
@@ -39,7 +36,6 @@ class Ui_selection_menu(object):
     def retranslateUi(self, selection_menu):
         _translate = QtCore.QCoreApplication.translate
         selection_menu.setWindowTitle(_translate("selection_menu", "MainWindow"))
-        self.pushButton_2.setText(_translate("selection_menu", "NextMatch"))
         self.pushButton_3.setText(_translate("selection_menu", "PassMap"))
         self.pushButton_4.setText(_translate("selection_menu", "ShotMap"))
         self.pushButton.setText(_translate("selection_menu", "<---------"))
